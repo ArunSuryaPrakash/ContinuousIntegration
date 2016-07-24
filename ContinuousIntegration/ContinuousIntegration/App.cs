@@ -11,7 +11,8 @@ namespace ContinuousIntegration
     {
         public App()
         {
-            // The root page of your application
+            // testing
+            //The root page of your application
             MainPage = new ContentPage
             {
                 Content = new StackLayout
