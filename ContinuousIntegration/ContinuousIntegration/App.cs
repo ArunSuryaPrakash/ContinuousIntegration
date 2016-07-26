@@ -11,7 +11,7 @@ namespace ContinuousIntegration
     {
         public App()
         {
-            // testing
+            // testing // // //
             //The root page of your application
             MainPage = new ContentPage
             {
