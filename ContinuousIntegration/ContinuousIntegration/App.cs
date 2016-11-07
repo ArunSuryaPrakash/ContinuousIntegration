@@ -11,7 +11,7 @@ namespace ContinuousIntegration
     {
         public App()
         {
-            // testing // // //
+            // testing // // sdsdsdsdssssss//
             //The root page of your application
             MainPage = new ContentPage
             {
@@ -51,10 +51,7 @@ namespace ContinuousIntegration
             };
         }
 
-        protected override void OnStart()
-        {
-            // Handle when your app starts
-        }
+        
 
         protected override void OnSleep()
         {
@@ -65,5 +62,12 @@ namespace ContinuousIntegration
         {
             // Handle when your app resumes
         }
+        
+        protected override void OnStart()
+        {
+            // Handle when your app starts
+        }
+        //sdkjskjdskjdjsjkd
+        //sdlsldklskd
     }
 }
