@@ -53,11 +53,7 @@ namespace ContinuousIntegration
 
         
 
-        protected override void OnSleep()
-        {
-            // Handle when your app sleeps
-        }
-
+     
         protected override void OnResume()
         {
             // Handle when your app resumes
@@ -68,6 +64,12 @@ namespace ContinuousIntegration
             // Handle when your app starts
         }
         //sdkjskjdskjdjsjkd
-        //sdlsldklskd
-    }
+        /VerticalOptions = LayoutOptions.Center,
+                    Children = {
+                        new Label {/sdlsldklskd
+    }   protected override void OnSleep()
+        {
+            // Handle when your app sleeps
+        }
+
 }
