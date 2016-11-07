@@ -12,7 +12,7 @@ namespace ContinuousIntegration
         public App()
         {
             // testing // // sdsdsdsdssssss//
-            //The root page of your application
+            //The root esrrwwerrrrrrrrrrrer of your application
             MainPage = new ContentPage
             {
              protected override void OnStart()
