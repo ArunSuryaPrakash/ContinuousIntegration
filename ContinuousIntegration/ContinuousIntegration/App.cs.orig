@@ -13,10 +13,10 @@ namespace ContinuousIntegration
         {
             // testing // // sdsdsdsdssssss//
 <<<<<<< HEAD
-            //The root this is not a sample of your application
+            //The root this again is not a sample of your application
 =======
-            //The root sample test of your application
->>>>>>> 421c4b670f126330e518266b4e78cf421e44f8e1
+            //The root app thats hosted of your application
+>>>>>>> 7c80763c42b7aa2cd6964629a1f7852bbffc6a7b
             MainPage = new ContentPage
             {
              protected override void OnStart()
