@@ -12,7 +12,7 @@ namespace ContinuousIntegration
         public App()
         {
             // testing // // sdsdsdsdssssss//
-            //The root esrrwwerrrrrrrrrrrer of your application
+            //The root sample test of your application
             MainPage = new ContentPage
             {
              protected override void OnStart()
